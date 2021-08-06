@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <nav className="bg-light absolute w-screen">
+    <nav className="bg-light absolute w-screen z-10">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between">
           {/* Logo */}

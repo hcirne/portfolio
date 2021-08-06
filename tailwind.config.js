@@ -16,6 +16,10 @@ module.exports = {
       bold: 700,
       black: 900,
     },
+    height: {
+      half: "50vh",
+      screen: "100vh",
+    },
     extend: {},
   },
   variants: {
