@@ -7,9 +7,9 @@ import "./index.css";
 
 ReactDOM.render(
   <React.StrictMode>
-		<Navbar />
+    <Navbar />
     <Intro />
-    <Projects />
+    <Projects title={"Architecture"} info={"This website"} />
   </React.StrictMode>,
   document.getElementById("root")
 );

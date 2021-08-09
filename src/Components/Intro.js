@@ -3,15 +3,15 @@ export default function Intro() {
     <div className="grid bg-light h-half w-full sm:h-screen">
       {/* Text */}
       <div className="place-self-center text-center p-4">
-        <h1 className="font-bold text-lg sm:text-2xl">Hello, I'm Henrique</h1>
-        <h2 className="font-light text-md sm:text-xl">
+        <h1 className="font-bold text-lg sm:text-3xl">Hello, I'm Henrique</h1>
+        <h2 className="font-light text-md sm:text-2xl">
           A self-taught Front-end developer from Portugal.
         </h2>
       </div>
 
       {/* Arrow Down */}
       <div className="absolute invisible sm:visible bottom-36 left-1/2 transform -translate-x-1/2 ">
-        <a href="/">
+        <a href="projects">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="animate-bounce h-4 w-4 sm:h-6 sm:w-6 "

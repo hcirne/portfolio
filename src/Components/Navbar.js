@@ -17,7 +17,7 @@ export default function Navbar() {
             <div>
               <a
                 href="/"
-                className="flex text-dark text-sm sm:text-xl font-bold
+                className="flex text-dark text-sm sm:text-lg font-bold
 												   transition duration-300 ease-in-out transform-gpu hover:scale-105"
               >
                 work
@@ -28,7 +28,7 @@ export default function Navbar() {
             <div>
               <a
                 href="../assets/CVH.pdf"
-                className="flex text-dark text-sm sm:text-xl font-bold pr-5
+                className="flex text-dark text-sm sm:text-lg font-bold pr-5
 													 transition duration-300 ease-in-out transform-gpu hover:scale-105"
                 download
               >
